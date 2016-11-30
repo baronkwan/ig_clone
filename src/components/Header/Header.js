@@ -17,7 +17,7 @@ export const Header = () => (
     */}
     <nav style={styles.navStyle}>
       <div>
-        <img src='http://placehold.it/50x50' />
+        <img src='http://placehold.it/50x50' /> | IG Clone
       </div>
       {/* */}
       <SearchBar />
